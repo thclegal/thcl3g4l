@@ -1,0 +1,40 @@
+*{
+background: black;
+font-family: sans-serif;
+font-weight: bold;
+color: white;
+}
+header{
+text-align:left;
+display:block;
+margin:0.1px;
+}
+nav{
+text-align:center;
+border:10px solid white;
+padding:5px;
+margin:0.1px;
+display:block;
+}
+section{
+border: 5px solid white;
+margin:0.1px;
+padding:5px;
+display:block;
+}
+footer{
+text-align:center;
+border: 5px solid white;
+margin:0.1px;
+padding:5px;
+display:block;
+}
+.cuerpo{
+text-align:center;
+border: 5px solid white;
+margin:0.1px;
+padding:5px;
+display:block;
+}
+
+
